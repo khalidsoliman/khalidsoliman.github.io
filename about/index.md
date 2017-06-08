@@ -32,12 +32,16 @@ Then after two years i had found that there was an upcoming field called " Virtu
 
 I have already done more than 5 projects for mobile VR 
 
-
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+<img src="https://image.ibb.co/kUPL2a/IMG_9250.png" alt="IMG_9250" border="0">
+<center><b>Project 1</b></center>
+<img src="https://image.ibb.co/igVGav/IMG_9277.png" alt="IMG_9277" border="0">
+<center><b>Project 2</b></center>
+<img src="https://image.ibb.co/bBqzvv/IMG_9403.png" alt="IMG_9403" border="0">
+<center><b>Project 3</b></center>
+<img src="https://image.ibb.co/cbqzvv/1_z_W_j_AUc_FNWSUjd_TU7s_TKu_A.png" alt="1_z_W_j_AUc_FNWSUjd_TU7s_TKu_A" border="0">
+<center><b>Project 4</b></center>
+<img src="https://image.ibb.co/mAjETF/Screen_Shot_2017_06_08_at_9_34_59_PM.png" alt="Screen_Shot_2017_06_08_at_9_34_59_PM" border="0">
+<center><b>Project 5</b></center>
 
 
 
