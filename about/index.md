@@ -32,7 +32,10 @@ Then after two years i had found that there was an upcoming field called " Virtu
 
 I have already done more than 5 projects for mobile VR 
 
+{% capture images %}
 https://github.com/khalidsoliman/khalidsoliman.github.io/blob/master/about/Screen%20Shot%202017-06-08%20at%209.34.59%20PM.png
+{% endcapture %}
+{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
 ## Gools
 
