@@ -7,7 +7,19 @@ comments: true
     
 <center><a href="http://www.khalidsoliman.me"><b>I'm</b></a> VR industry enthusiast, In virtual reality i dream.</center>
 
+## Life Summary
 
+When I was young ( about 4 years old ) I was just loving my mom, dad, and my computer. I was always number one at the class in maths, my teachers said that I would be a researcher at pure mathematics.
+
+I was fond of computer and technology. My parents saw that I just gave my whole time for technology, they tried harder and harder to prevent me following this track. they didn't want to buy a newer computer for me ( since mine was too old to run Mario game ), I'm who saved the many to buy a new one and even my laptop, all these things and I was just too young. 
+
+I built my experience in computer by my own , when I got Mac I destroyed the OS and tried to build it again, some many people could see it waste time or madness , but I wanted really to know from A to Z about Mac ( i believe " corruption lead to education " just in learning matters :D ) 
+
+About 12-13 years ago I tried hard to edit program that effects in the game color, I succeeded in that but I hadn't known the basics, I changed it randomly. so I was thinking how one can build the game or how even the users control the game ?? 
+
+In my first year at college, I tended to E-learning, I have had many courses online.
+
+Then after two years i had found that there was an upcoming field called " Virtual Reality ".It was an attractive field to pursuit,Nice Catch ! 
 
 ## Preview
 
