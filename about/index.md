@@ -1,24 +1,13 @@
 ---
 layout: page
 title: About Me
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
-comments: false
+date: 2017-06-8
+comments: true
 ---
     
 <center><a href="http://www.khalidsoliman.me"><b>I'm</b></a> VR industry enthusiast, In virtual reality i dream.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+
 
 ## Preview
 
