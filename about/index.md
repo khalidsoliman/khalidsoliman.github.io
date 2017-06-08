@@ -6,7 +6,7 @@ date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://www.khalidsoliman.me"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="http://www.khalidsoliman.me"><b>I'm</b></a> VR industry enthusiast, In virtual reality i dream.</center>
 
 ## Features
 * Minimal, you can focus on your content
