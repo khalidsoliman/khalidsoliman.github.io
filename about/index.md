@@ -57,6 +57,8 @@ https://github.com/khalidsoliman/khalidsoliman.github.io/blob/master/about/Scree
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Project 5" cols=2 %}
 
+feature: /about/1*zW-jAUcFNWSUjdTU7sTKuA.png
+
 ## Gools
 
 Build commercial App for HTC Vive From A to Z
