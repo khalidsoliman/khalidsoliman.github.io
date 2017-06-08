@@ -48,9 +48,3 @@ I have already done more than 5 projects for mobile VR
 ## Gools
 
 Build commercial App for HTC Vive From A to Z
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
