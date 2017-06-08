@@ -33,15 +33,15 @@ Then after two years i had found that there was an upcoming field called " Virtu
 I have already done more than 5 projects for mobile VR 
 
 1- 'about/IMG_9250.PNG'
-<center><a href="https://github.com/khalidsoliman/Udacity_VR_ND_P1"><b>Project 1</b></a></center>
+<a href="https://github.com/khalidsoliman/Udacity_VR_ND_P1"><b>Project 1</b></a>
 2- 'about/IMG_9277.PNG'
-<center><a href="https://github.com/khalidsoliman/Udacity_VR_ND_P2"><b>I'm</b></a></center>
+<a href="https://github.com/khalidsoliman/Udacity_VR_ND_P2"><b>Project 2</b></a>
 3- 'about/IMG_9403.PNG'
-<center><a href="https://github.com/khalidsoliman/Udacity_VR_ND_P3"><b>Project 3</b></a></center>
+<a href="https://github.com/khalidsoliman/Udacity_VR_ND_P3"><b>Project 3</b></a>
 4- 'about/1*zW-jAUcFNWSUjdTU7sTKuA.png'
-<center><a href="https://github.com/khalidsoliman/VR_ND_P4"><b>Project 4</b></a></center>
+<a href="https://github.com/khalidsoliman/VR_ND_P4"><b>Project 4</b></a>
 5- 'about/Screen Shot 2017-06-08 at 9.34.59 PM.png'
-<center><b>Project 5</b></center>
+<b>Project 5</b>
 
 ## Gools
 
