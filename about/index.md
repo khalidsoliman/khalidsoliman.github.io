@@ -46,7 +46,7 @@ I have already done more than 5 projects for mobile VR
 Build commercial App for HTC Vive From A to Z
 
 ## Preview
-
+<img src="https://image.ibb.co/mAjETF/Screen_Shot_2017_06_08_at_9_34_59_PM.png" alt="Screen_Shot_2017_06_08_at_9_34_59_PM" border="0">
 {% capture images %}
     https://github.com/khalidsoliman/khalidsoliman.github.io/blob/master/about/1*zW-jAUcFNWSUjdTU7sTKuA.png
     https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
