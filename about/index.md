@@ -41,7 +41,7 @@ I have already done more than 5 projects for mobile VR
 4- 'about/1*zW-jAUcFNWSUjdTU7sTKuA.png'
 <center><a href="https://github.com/khalidsoliman/VR_ND_P4"><b>Project 4</b></a></center>
 5- 'about/Screen Shot 2017-06-08 at 9.34.59 PM.png'
-<center><b>Project 5</b></a></center>
+
 
 ## Gools
 
