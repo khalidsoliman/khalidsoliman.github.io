@@ -21,15 +21,6 @@ In my first year at college, I tended to E-learning, I have had many courses onl
 
 Then after two years i had found that there was an upcoming field called " Virtual Reality ".It was an attractive field to pursuit,Nice Catch ! 
 
-## Preview
-
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
 
 ## Skills 
 
@@ -53,6 +44,18 @@ I have already done more than 5 projects for mobile VR
 <center><b>Project 5</b></center>
 
 ## Gools
+
+
+
+## Preview
+
+{% capture images %}
+    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
+    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
+{% endcapture %}
+{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+
+See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
 
 ## Getting Started
 
