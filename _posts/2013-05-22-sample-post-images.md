@@ -2,9 +2,7 @@
 layout: post
 title: "Future of VR/AR"
 date: 2017-03-15
-excerpt: "Examples and code for displaying images in posts."
-tags: [sample post, images, test]
-comments: true
+
 ---
 
 Here i"m answering on some questions about VR/AR 
